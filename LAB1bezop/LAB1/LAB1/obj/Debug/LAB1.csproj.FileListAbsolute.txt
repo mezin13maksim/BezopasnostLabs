@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\bin\Debug\LAB1.exe.config
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\bin\Debug\LAB1.exe
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\bin\Debug\LAB1.pdb
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\obj\Debug\LAB1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\obj\Debug\LAB1.Form1.resources
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\obj\Debug\LAB1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\obj\Debug\LAB1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\obj\Debug\LAB1.exe
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB1\LAB1\obj\Debug\LAB1.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\obj\Debug\LAB1.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\obj\Debug\LAB1.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\bin\Debug\LAB1.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\bin\Debug\LAB1.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\obj\Debug\LAB1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\obj\Debug\LAB1.Form1.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\obj\Debug\LAB1.Properties.Resources.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1\LAB1\obj\Debug\LAB1.csproj.GenerateResource.Cache

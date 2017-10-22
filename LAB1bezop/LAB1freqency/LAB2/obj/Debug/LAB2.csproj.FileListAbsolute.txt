@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\bin\Debug\LAB2.exe.config
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\bin\Debug\LAB2.exe
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\bin\Debug\LAB2.pdb
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\obj\Debug\LAB2.exe
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\obj\Debug\LAB2.pdb
+c:\users\admin\documents\visual studio 2013\TestWinWorms\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\TestWinWorms\LAB1freqency\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\TestWinWorms\LAB1freqency\LAB2\obj\Debug\LAB2.exe
+C:\Users\Admin\Documents\Visual Studio 2013\TestWinWorms\LAB1freqency\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\obj\Debug\LAB2.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\bin\Debug\LAB2.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\obj\Debug\LAB2.Form1.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB1bezop\LAB1freqency\LAB2\obj\Debug\LAB2.csproj.GenerateResource.Cache

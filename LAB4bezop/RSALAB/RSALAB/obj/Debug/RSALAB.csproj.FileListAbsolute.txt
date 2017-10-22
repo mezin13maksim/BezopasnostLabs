@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\bin\Debug\RSALAB.exe.config
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\bin\Debug\RSALAB.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\bin\Debug\RSALAB.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\obj\Debug\RSALAB.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\obj\Debug\RSALAB.Form1.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\obj\Debug\RSALAB.Properties.Resources.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\obj\Debug\RSALAB.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\obj\Debug\RSALAB.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB4bezop\RSALAB\RSALAB\obj\Debug\RSALAB.pdb

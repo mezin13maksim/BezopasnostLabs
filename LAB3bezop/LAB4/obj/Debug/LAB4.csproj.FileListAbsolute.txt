@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\bin\Debug\LAB4.exe.config
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\bin\Debug\LAB4.exe
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\bin\Debug\LAB4.pdb
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\obj\Debug\LAB4.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\obj\Debug\LAB4.Form1.resources
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\obj\Debug\LAB4.exe
+c:\users\admin\documents\visual studio 2013\LAB4b\LAB4\LAB4\obj\Debug\LAB4.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\obj\Debug\LAB4.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\obj\Debug\LAB4.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\bin\Debug\LAB4.exe
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\bin\Debug\LAB4.pdb
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\obj\Debug\LAB4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\obj\Debug\LAB4.Form1.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+C:\Users\Admin\Desktop\очоба\Безопасность\LAB3bezop\LAB4\obj\Debug\LAB4.csproj.GenerateResource.Cache
