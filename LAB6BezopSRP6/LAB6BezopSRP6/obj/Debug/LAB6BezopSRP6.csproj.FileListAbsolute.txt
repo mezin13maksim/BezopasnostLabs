@@ -1,0 +1,9 @@
+c:\users\admin.admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\bin\Debug\LAB6BezopSRP6.exe.config
+c:\users\admin.admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\obj\Debug\LAB6BezopSRP6.csprojResolveAssemblyReference.cache
+c:\users\admin.admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\obj\Debug\LAB6BezopSRP6.Form1.resources
+c:\users\admin.admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\obj\Debug\LAB6BezopSRP6.Properties.Resources.resources
+c:\users\admin.admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\obj\Debug\LAB6BezopSRP6.csproj.GenerateResource.Cache
+C:\Users\Admin.Admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\bin\Debug\LAB6BezopSRP6.exe
+C:\Users\Admin.Admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\bin\Debug\LAB6BezopSRP6.pdb
+C:\Users\Admin.Admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\obj\Debug\LAB6BezopSRP6.exe
+C:\Users\Admin.Admin_\documents\visual studio 2013\Projects\LAB6BezopSRP6\LAB6BezopSRP6\obj\Debug\LAB6BezopSRP6.pdb
